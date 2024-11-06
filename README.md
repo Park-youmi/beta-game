@@ -14,6 +14,6 @@
 
 ## 개발환경
 - 개발 도구
-   - HTML5, HTML CSS Support v2.0.10, JavaScript (ES6) code snippets v1.8.0
+   - Edit Plus
   - Google Apps Script
   - Google Sheet
